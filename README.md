@@ -1,57 +1,91 @@
-Cohere
+<p align="center">Cohere</p>
+<p align="center">A Transparent and Data-Driven Platform for NGO Coordination</p>
+<p align="center"> <img src="https://img.shields.io/badge/Platform-Web-based-black?style=for-the-badge" /> <img src="https://img.shields.io/badge/Focus-Transparency-blue?style=for-the-badge" /> <img src="https://img.shields.io/badge/System-Data Driven-success?style=for-the-badge" /> <img src="https://img.shields.io/badge/Status-Prototype-orange?style=for-the-badge" /> </p>
+<p align="center"> <strong>Centralized • Transparent • Verifiable • Scalable</strong> </p>
+<p align="center">Overview</p>
+<p align="center"> Cohere is a unified platform that connects NGOs, donors, volunteers, and administrators into a single structured system. It transforms fragmented social initiatives into trackable, verifiable, and data-driven processes. </p>
+<p align="center">Key Capabilities</p>
+<table> <tr> <td width="50%">
+Multi-Role System
 
-A Transparent and Data-Driven Platform for NGO Coordination
+Role-based dashboards for NGOs, donors, volunteers, and admin
 
-Overview
+Activity Feed
 
-Cohere is a centralized platform designed to streamline how NGOs, donors, and volunteers interact. It enables structured coordination, verified resource exchange, and real-time visibility of activities, making social initiatives more transparent, organized, and scalable.
+Centralized space for events, updates, and requests
 
-What Cohere Does
-Connects NGOs, donors, volunteers, and admin in one system
-Converts scattered activities into structured, trackable workflows
-Ensures every action is verified, recorded, and measurable
-Provides real-time visibility into events, resources, and participation
-Core Features
-Multi-Role Access
-Dedicated interfaces for NGOs, donors, volunteers, and admin
-Centralized Activity Feed
-Unified space for events, requests, and updates
-Resource Exchange System
-Listing, claiming, and managing essential resources
+Resource Exchange
+
+Structured listing and claiming of resources
+
+</td> <td width="50%">
 Verification System
-Geo-tagged proof with timestamps for every completed activity
+
+Geo-tagged proof with timestamps
+
 Real-Time Tracking
-Monitor activities and resource movement live
+
+Monitor activities and resource flow
+
 Volunteer Management
-Structured participation with role-based assignments
-Collaboration Module
-NGOs can connect and work together on initiatives
-Live Map View
-Visual tracking of events and activities
-Admin Control
-Full access for monitoring, validation, and system management
-System Design Highlights
-Layered architecture for scalability and modularity
-Transparency layer ensuring two-way verification for all transactions
-Centralized data handling for consistent tracking and reporting
-Integration of location, media, and notification services
-Impact
-Transforms NGO operations into structured systems
-Improves transparency and accountability
-Enables measurable and verifiable impact
-Optimizes resource utilization and coordination
-Supports scalable and data-driven social initiatives
-Tech Stack
-Frontend: HTML, CSS, JavaScript
-Backend: Python / Node.js
-Database: SQL
-Tools: Git, APIs, Mapping services
-Future Scope
-Smart recommendations for volunteers and donations
-Advanced analytics and dashboards
-Multi-city and multi-NGO scaling
+
+Role-based assignment and participation
+
+</td> </tr> </table>
+<p align="center">System Highlights</p>
+<p align="center">
+
+Layered and modular architecture
+<br>
+Two-way verification for transparency
+<br>
+Centralized data tracking
+<br>
+Integrated maps and media handling
+<br>
+Admin-level control and monitoring
+
+</p>
+<p align="center">Impact</p>
+<table> <tr> <td width="50%">
+Operational
+Structured workflows
+Reduced coordination gaps
+Improved resource utilization
+</td> <td width="50%">
+System
+Verified and traceable actions
+Real-time visibility
+Measurable outcomes
+</td> </tr> </table>
+<p align="center">Tech Stack</p>
+<p align="center">
+
+Frontend
+HTML • CSS • JavaScript
+
+Backend
+Python / Node.js
+
+Database
+SQL
+
+Integration
+Maps • Media APIs
+
+</p>
+<p align="center">Future Scope</p>
+<p align="center">
+
+Smart recommendations
+<br>
+Advanced analytics dashboards
+<br>
+Multi-NGO scalability
+<br>
 Mobile application integration
-Contributors
-Mahak Mehadia
-Parthiv Abhani
-Shlok Vij
+
+</p>
+<p align="center">Contributors</p>
+<p align="center"> Mahak Mehadia • Parthiv Abhani • Shlok Vij </p>
+<p align="center"> Built for structured, transparent, and scalable social impact </p>
