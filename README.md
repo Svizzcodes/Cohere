@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="CohereReadmeFile.png" width="100%">
+  <img src="Coheregitinfo.png" width="100%">
 </p>
